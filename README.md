@@ -1,9 +1,9 @@
 # Rust Assist Framework 🔧🎮
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/adgdsgsd/rust-external?color=brightgreen&label=Version&style=for-the-badge" alt="Version">
-  <img src="https://img.shields.io/github/downloads/adgdsgsd/rust-external/total?color=blue&label=Total%20Downloads&style=for-the-badge" alt="Downloads">
-  <img src="https://img.shields.io/github/stars/adgdsgsd/rust-external?color=yellow&label=Stars&style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/github/v/release/DeanRodriquez/rust-assist?color=brightgreen&label=Version&style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/github/downloads/DeanRodriquez/rust-assist/total?color=blue&label=Total%20Downloads&style=for-the-badge" alt="Downloads">
+  <img src="https://img.shields.io/github/stars/DeanRodriquez/rust-assist?color=yellow&label=Stars&style=for-the-badge" alt="Stars">
   <img src="https://img.shields.io/badge/Platform-Windows-orange?style=for-the-badge" alt="Platform">
 </p>
 
